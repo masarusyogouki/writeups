@@ -11,10 +11,14 @@ easy / 100 point (211 Solves)
 
 ## 自分で解法を考える
 README.mdの情報量が少なすぎるので、現実に起きたことではないか？
+
 そこで、"bitcoin 2024 leak japan"と検索した
+
 すると、DMM Bitcoinが2024年5月31日に不正流出したとのこと
 おそらくこの件の流出先となっているウォレットアドレスを調べればいいのではないか？
+
 北朝鮮ハッカー集団"TraderTraitor"の関連口座に流出したとのこと
+
 Flag形式：`Diver24{TraderTraitor}` 
 
 ## 解法
@@ -32,6 +36,7 @@ X（Twitter）で`dmm btc address`と調べると、まとめている[ポスト
 
 ## AIによるアドバイス
 <details>
+<summary>クリックで表示</summary>
 事件の特定までは合っていました。  
 「日本の会社」「大規模なBTC不正流出」から、DMM Bitcoinの事件にたどり着けた点は良かったです。
 
