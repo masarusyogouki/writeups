@@ -22,3 +22,28 @@ easy / 500 point (2 solves)
 - 申し込みフォームはhttps://forms.gle/BYXKhvFhaoyD1HdU7
 
 Flag形式: `Diver24{https://www.instabase.jp/space/8039340260}`
+
+## 解法
+
+<details>
+
+<summary>クリックで表示</summary>
+
+Mapillaryと同じユーザIDを使用しているX (Twitter) には、Googleドキュメントへのリンクがあります。
+
+https://twitter.com/mori_mune24/status/1783088459449811422
+
+Google ドキュメントには集合場所のみが記載されており、会場は不明です。
+しかし、コメントを表示すると、削除された文字列部分に会場候補のURLが記載されています。
+![](./comments.png)
+
+このURLを開くと、名古屋にあるイベントスペースのものであると分かります。
+
+**Diver24{https://www.instabase.jp/space/8039340260}**
+
+文書作成ツールには、編集履歴が残っていることがあり、時にはそこに削除された情報が残っている可能性を知ってほしいという意図で作問されました。
+
+</details>
+
+## 結果
+正解
