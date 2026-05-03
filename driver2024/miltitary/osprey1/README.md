@@ -25,3 +25,10 @@ GUNDAM 22がコールサインっぽい？
 
 Flag形式: `Diver24{10-0054_GUNDAM22}`  
 
+## 結果
+不正解
+
+## 反省
+ない。作問者が誰か知らないし、時間が経った今おそらく墜落したのは10-0054で間違いないと思うから。
+
+https://zenn.dev/kn1cht/articles/diver-osint-ctf-2024-kakitsubata#osprey1-(easy)-%5Bmeow_noisy%5D---100-point-203-solves
