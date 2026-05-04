@@ -25,3 +25,6 @@ For example, if the target account were [@gov_online](https://x.com/gov_online),
 Xで全文検索したら見つかるだろう
 
 Flag：`SWIMMER{@bruto_rain}`
+
+## 結果
+正解
